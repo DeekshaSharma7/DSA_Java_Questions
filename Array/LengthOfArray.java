@@ -6,3 +6,8 @@ public class LengthOfArray {
         System.out.println("Length of an Array: " +marks.length);
     }
 }
+
+
+---------------------------------------------------------------------
+    OUTPUT:
+Length of an Array: 40
