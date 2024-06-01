@@ -1,3 +1,6 @@
+RECURSIVE APPROACH (Using a max variable):--
+
+    
 public class LargestElement2 {
     public static void main(String[] args) {
         int arr1[] = { 4, 8, 3, 7, 9, 2 };
