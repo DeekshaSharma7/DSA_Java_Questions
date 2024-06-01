@@ -10,3 +10,7 @@ public class SmallestElement1 {
         System.out.println("The smallest Element is: " +sort(arr1));
     }
 }
+
+-----------------------------------------------------------------------------------
+    OUTPUT:
+    The smallest Element is: 3
