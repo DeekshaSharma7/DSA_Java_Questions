@@ -14,3 +14,8 @@ public class LargestElement2 {
         return max;
     }
 }
+
+--------------------------------------------------------------------------------------------------
+
+    OUTPUT:
+    The Largest Number is: 9
