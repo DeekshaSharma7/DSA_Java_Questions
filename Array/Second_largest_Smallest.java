@@ -17,3 +17,10 @@ public class Second_largest_Smallest {
         
     }
 }
+
+------------------------------------------------------------------------------------------------------------------------
+
+    OUTPUT:
+
+    The Second Smallest element is: 3
+    The Second Largest element is: 8
