@@ -16,3 +16,9 @@ public class SmallestElement2 {
         return min;
     }
 }
+
+------------------------------------------------------------------------------------------------
+
+    OUTPUT:
+
+    The Smallest Element is: 3
