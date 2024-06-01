@@ -11,3 +11,9 @@ public class Avarage {
         System.out.println("The Average of an Element is: " +Avg);
     }   
 }
+
+-------------------------------------------------------------------------------------
+    OUTPUT:
+
+    The Sum of the Elements is: 21.0
+    The Average of an Element is: 3.5
