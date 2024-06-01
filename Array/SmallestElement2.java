@@ -1,5 +1,3 @@
-//import java.util.*;
-
 public class SmallestElement2 {
     public static void main(String[] args) {
         int arr1[] = { 5, 7, 3, 8, 9 };
