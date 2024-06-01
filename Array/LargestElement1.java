@@ -12,3 +12,8 @@ public class LargestElement1 {
         return arr[arr.length - 1];
     }
 }
+
+---------------------------------------------------------------------------------------------
+
+    OUTPUT:
+    The Largest Element is: 8
