@@ -12,3 +12,8 @@ public class Positive_Negative_Number {
         }
     }
 }
+
+------------------------------------------------------------------------------
+
+    OUTPUT:
+    The Number -15 is Negative.
