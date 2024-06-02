@@ -5,3 +5,8 @@ public class Greatest_2Number {
         System.out.println("The Greatest Number is: " +Math.max(n1, n2));
     }
 }
+
+----------------------------------------------------------------------------
+
+    OUTPUT:
+    The Greatest Number is: 4521
