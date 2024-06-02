@@ -12,3 +12,10 @@ public class Sum_of_Natural_Number {
         System.out.println("The sum of the Natural Number is: "+sum);
     }
 }
+
+----------------------------------------------------------------------------------------------
+
+    OUTPUT:
+
+The sum of the Natural Number is: 15
+The sum of the Natural Number is: 21
