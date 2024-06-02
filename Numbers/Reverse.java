@@ -14,3 +14,9 @@ public class Reverse {
         return rev;
     }
 }
+
+------------------------------------------------------------------------------------
+
+    OUTPUT:
+
+    The Reverse Number is: 54321
