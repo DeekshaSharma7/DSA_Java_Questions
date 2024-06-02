@@ -13,3 +13,8 @@ public class Greatest_3Number2 {
         }
     }
 }
+
+--------------------------------------------------------------------------
+
+    OUTPUT:
+    The Greatest Number is: 22
