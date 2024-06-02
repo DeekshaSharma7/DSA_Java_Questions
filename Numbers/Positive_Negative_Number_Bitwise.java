@@ -12,3 +12,8 @@ public class Positive_Negative_Number_Bitwise {
         }
     }
 }
+
+---------------------------------------------------------------------
+
+    OUTPUT:
+    -8 is Negative
