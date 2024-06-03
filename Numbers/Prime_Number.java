@@ -27,3 +27,15 @@ public class Prime_Number {
         }
     }
 }
+
+---------------------------------------------------------------------------------------
+
+    OUTPUT:
+    Enter the Number: 
+    13
+    13 is a Prime Number.
+    
+
+    Enter the Number: 
+    24
+    24 is not a Prime Number.
