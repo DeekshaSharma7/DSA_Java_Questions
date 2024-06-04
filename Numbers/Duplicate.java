@@ -20,3 +20,14 @@ public class Duplicate {
         return i+1;
     }
 }
+
+----------------------------------------------------------------------------------------------------------
+
+    OUTPUT:
+    The Array after removing duplicate Elements: 6
+    1 
+    2 
+    3 
+    4 
+    5 
+    7 
