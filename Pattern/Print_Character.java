@@ -11,3 +11,11 @@ public class Print_Character {
         }
     }
 }
+
+-----------------------------------------------------------
+
+    OUTPUT:
+    A 
+    B C
+    D E F
+    G H I J
