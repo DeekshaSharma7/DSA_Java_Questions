@@ -11,3 +11,12 @@ public class Inverted_half_Pyramid_Number {
         Half_pyramid(4);
     }
 }
+
+
+-----------------------------------------------------------
+OUTPUT:
+    
+    1 2 3 4 
+    1 2 3
+    1 2
+    1
