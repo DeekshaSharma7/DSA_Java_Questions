@@ -14,3 +14,11 @@ public class Inverted_RotatedHalf_Pyramid {
         Half_pyramid(4);
     }
 }
+
+----------------------------------------------------------------
+
+    OUTPUT:
+       *
+      **
+     ***
+    ****
