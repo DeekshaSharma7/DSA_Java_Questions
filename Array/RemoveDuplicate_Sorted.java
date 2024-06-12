@@ -19,3 +19,11 @@ public class RemoveDuplicate_Sorted {
         return i + 1;
     }
 }
+
+
+-------------------------------------------------------------------
+
+    OUTPUT:
+    The array after removing: 
+    1 2 3 4 
+    
