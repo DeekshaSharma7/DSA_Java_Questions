@@ -13,9 +13,9 @@ public class Sum_of_Natural_Number {
     }
 }
 
-----------------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------------
 
-    OUTPUT:
+//     OUTPUT:
 
-The sum of the Natural Number is: 15
-The sum of the Natural Number is: 21
+// The sum of the Natural Number is: 15
+// The sum of the Natural Number is: 21

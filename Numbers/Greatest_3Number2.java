@@ -12,9 +12,9 @@ public class Greatest_3Number2 {
             System.out.println("The Greatest Number is: " +n3);
         }
     }
-}
+ }
 
---------------------------------------------------------------------------
+// --------------------------------------------------------------------------
 
-    OUTPUT:
-    The Greatest Number is: 22
+//     OUTPUT:
+//     The Greatest Number is: 22

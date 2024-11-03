@@ -12,8 +12,8 @@ public class Avarage {
     }   
 }
 
--------------------------------------------------------------------------------------
-    OUTPUT:
+// -------------------------------------------------------------------------------------
+//     OUTPUT:
 
-    The Sum of the Elements is: 21.0
-    The Average of an Element is: 3.5
+//     The Sum of the Elements is: 21.0
+//     The Average of an Element is: 3.5

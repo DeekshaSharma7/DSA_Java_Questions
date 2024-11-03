@@ -19,3 +19,8 @@ public class sum {
         return sum;
     }
 }
+
+// ********************************************
+// Enter the first number: 65
+// Enter the Second number: 85
+// Sum of two numbers: 150

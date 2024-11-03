@@ -26,3 +26,9 @@ public class prime{
         
     }
 }
+
+
+// **************************************************
+// Enter a number: 
+// 56
+// 56is not an Prime Number
