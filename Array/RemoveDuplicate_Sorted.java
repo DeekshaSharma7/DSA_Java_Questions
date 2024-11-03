@@ -21,9 +21,9 @@ public class RemoveDuplicate_Sorted {
 }
 
 
--------------------------------------------------------------------
+// -------------------------------------------------------------------
 
-    OUTPUT:
-    The array after removing: 
-    1 2 3 4 
+//     OUTPUT:
+//     The array after removing: 
+//     1 2 3 4 
     

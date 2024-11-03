@@ -1,4 +1,4 @@
-RECURSIVE APPROACH (Using a max variable):--
+//RECURSIVE APPROACH (Using a max variable):--
 
     
 public class LargestElement2 {
@@ -18,7 +18,7 @@ public class LargestElement2 {
     }
 }
 
---------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
 
-    OUTPUT:
-    The Largest Number is: 9
+//     OUTPUT:
+//     The Largest Number is: 9
