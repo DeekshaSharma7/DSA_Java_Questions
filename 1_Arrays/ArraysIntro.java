@@ -8,6 +8,6 @@ public class ArraysIntro {
         System.out.println(marks[0]);
         System.out.println(numbers[0]);
         System.out.println(fruits[1]);
-        System.out.println(fruits[2]);
+       // System.out.println(fruits[2]);
     }
 }
