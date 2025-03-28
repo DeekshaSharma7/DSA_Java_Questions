@@ -9,6 +9,7 @@ public class Bubble_Sort {
                 }
             }
         }
+        
     }
 
     public static void printArr(int arr[]) {
